@@ -95,7 +95,7 @@ analytics:
 # Site Author
 author:
   name             : "Donghyun kim"
-  avatar           : "./_image/head.jpg"
+  avatar           : "/assets/head.jpg"
   bio              : "대학교 재학중인 프로그래머 지망 학생입니다."
   location         : "Seoul"
   email            :
