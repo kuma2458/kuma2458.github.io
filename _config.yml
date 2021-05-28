@@ -95,9 +95,9 @@ analytics:
 # Site Author
 author:
   name             : "Donghyun kim"
-  avatar           : "/_image/unnamed.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  avatar           : "/_image/head.jpg"
+  bio              : "대학교 재학중인 프로그래머 지망 학생입니다."
+  location         : "Seoul"
   email            :
   links:
     - label: "Email"
